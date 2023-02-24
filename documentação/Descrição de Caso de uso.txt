@@ -1,0 +1,2 @@
+Cliente necessita inicialmente de um sistema que faça o controle das suas ordens de serviços vinculando seus clientes, serviços e prestadores de serviços. Os serviços prestados por nosso cliente são criação de sites e design, apenas em formatos digitais. A delegação dos serviços ocorrem por meio dos prestadores de serviços contratados.
+Sendo assim, é necessário que nosso cliente tenham um controle para poder gerenciar todos os trabalhos realizados pelos prestadores, se todos os serviços fornecidos estão cumprindo o prazo, e quais serviços cada cliente tem solicitado.
